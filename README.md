@@ -27,7 +27,7 @@
 
 ### Diagrama del Modelo ER
 
-![Diagrama ER](https://github.com/jmorejonm/Encuestas/blob/main/diagER.png)
+![Diagrama ER](https://github.com/jose-dev-gt/Encuestas/blob/main/diagER.png)
 
 ## Modelo Estrella para Análisis de Datos
 
@@ -49,7 +49,7 @@
 
 ### Diagrama del Modelo Estrella
 
-![Diagrama Modelo Estrella](https://github.com/jmorejonm/Encuestas/blob/main/diagstar.png)
+![Diagrama Modelo Estrella](https://github.com/jose-dev-gt/Encuestas/blob/main/diagstar.png)
 
 ## Scripts SQL para el Sistema de Encuestas de Satisfacción de Clientes
 
